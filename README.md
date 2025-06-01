@@ -16,23 +16,21 @@
 
 # 最高性价比的梯子机场top3
 
-## [灯塔云-官网直达](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=i8oxBYbN) 
+## [尔湾云-官网直达](https://erwan6.net/auth/register?code=E7mXPq) 
 
-- 丰富的节点，40+节点，涵盖台湾、美国、新加坡、土耳其、法国、印度、日本、香港等
-- 60元/半年，合计10元每月的超高性价比机场
-- 每月100G流量，解锁ChatGPT/流媒体/Tiktok
+- 丰富的节点，100+节点，涵盖台湾、美国、新加坡、土耳其、法国、印度、日本、香港等
+- 入门最低14元每月的超高性价比机场
+- 入门套餐每月50G流量，解锁ChatGPT/流媒体/Tiktok
 - 自建Windows、macOS，安卓客户端
 - 支持支付宝，微信，售后客服回复及时
 
 | 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
 | --- | --- | --- | --- | --- |
-| Vip0 | 半年 | 60元 | 100G | 不限设备数量 |
-| Vip1 | 三个月 | 79元 | 600G | 不限设备数量 |
-| Vip2 | 半年 | 145元 | 600G | 不限设备数量 |
-| Vip3 | 一年 | 269元 | 600G | 不限设备数量 |
+| Vip0 | 一个与 | 14元 | 50G | 2台设备 |
+| Vip1 | 三个月 | 42元 | 50G | 2台设备 |
+| Vip2 | 半年 | 84元 | 50G | 2台设备 |
+| Vip3 | 一年 | 168元 | 50G | 2台设备 |
 
-### 灯塔云机场测速
-![dengta_speed_test](https://github.com/user-attachments/assets/c30c531f-9aa1-4fdb-85ca-137fd815f6a6)
 
 
 ## [椰子云-官网直达](https://coconut.trafficmanager.net/#/register?code=yFRuXrNf)
