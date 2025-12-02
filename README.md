@@ -33,23 +33,6 @@
 
 
 
-## [椰子云-官网直达](https://coconut.trafficmanager.net/#/register?code=yFRuXrNf)
-
-- 全高速节点,台湾、美国、新加坡、日本、香港等
-- 每月15元，每月150高速流量，无敌性价比机场，最多支持4个设备同时使用，峰值500Mbps
-- 解锁ChatGPT/流媒体/Tiktok，自建windows和安卓客户端
-- 拥有不限时的永久流量套餐，流量用完为止，适合作为急用，备用机场
-
-| 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
-| --- | --- | --- | --- | --- |
-| Vip0 | 一个月 | 15元 | 180G | 4个设备 |
-| Vip1 | 一个月 | 35元 | 360G | 6个设备 |
-| Vip2 | 不限时间 | 79元 | 500G用完即止 | 不限设备数量 |
-| Vip3 | 不限时间 | 109元 | 1000G用完即止 | 不限设备数量 |
-| 永久Vip | 永久使用 | 628 | 不限时间 | 不限设备数量 |
-
-### 椰子云机场测速
-![yezi_speed_test](https://github.com/user-attachments/assets/25ec5408-f15c-4e70-8e69-b620dcdb19b0)
 
 
 ## [疾风云-官方直达](https://jif44.net/auth/register?code=zm1Z)
