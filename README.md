@@ -16,7 +16,7 @@
 
 # 最高性价比的梯子机场top3
 
-## [尔湾云-官网直达](https://erwan6.net/auth/register?code=E7mXPq) 
+## [尔湾云-官网直达](https://ewanwtt.net/auth/register?code=E7mXPq) 
 
 - 丰富的节点，100+节点，涵盖台湾、美国、新加坡、土耳其、法国、印度、日本、香港等
 - 入门最低14元每月的超高性价比机场
@@ -35,7 +35,7 @@
 
 
 
-## [疾风云-官方直达](https://jif44.net/auth/register?code=zm1Z)
+## [疾风云-官方直达](https://jif637.net?code=zm1Z)
 
 - 多地区节点，香港、日本、新加坡、美国、台湾，韩国，马来西亚
 - 最低11.9/月，50G高速流量，性价比超高机场
