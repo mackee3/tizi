@@ -82,4 +82,4 @@
 
 可以安装，但不要同时开启多个系统代理、VPN 或 TUN 模式。多个客户端同时接管网络容易造成路由、DNS 和端口冲突。
 
-进一步阅读：[梯子与 VPN 的区别](tizi-vs-vpn.md)和[梯子评估方法](selection-methodology.md)。
+进一步阅读：[梯子与 VPN 的区别](tizi-vs-vpn.md)和[免费梯子的风险与替代方案](mianfei-tizi.md)。

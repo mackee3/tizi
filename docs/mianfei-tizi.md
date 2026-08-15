@@ -51,13 +51,13 @@
 
 ## 更可控的低成本替代
 
-与其长期寻找不明免费节点，可以用小额月付、轻量年付或不限时流量包控制成本。以下只是已核验的套餐参数，不代表速度排名：
+与其长期寻找不明免费节点，可以用小额月付、轻量年付或不限时流量包控制成本。下面按常见需求列出几种低成本选择：
 
-| 需求 | 方案示例 | 已核验价格 | 注意事项 |
+| 需求 | 方案示例 | 参考价格 | 注意事项 |
 | --- | --- | ---: | --- |
-| 小额月付测试 | [Edge](https://aff.kitdude.com/bianyuan) | ¥15/月，50 GB | 页面线路声明未经本站实测 |
-| 约 100 GB 月付 | [光年梯](https://aff.kitdude.com/guangnian) | ¥18/月，110 GB | 页面明确不退款 |
-| 多设备轻量月付 | [寰宇云](https://aff.kitdude.com/huanyu) | ¥18/月，150 GB | 页面明确不退款 |
+| 小额月付测试 | [Edge](https://aff.kitdude.com/bianyuan) | ¥15/月，50 GB | 先确认常用节点是否适合本地网络 |
+| 约 100 GB 月付 | [光年梯](https://aff.kitdude.com/guangnian) | ¥18/月，110 GB | 不退款 |
+| 多设备轻量月付 | [寰宇云](https://aff.kitdude.com/huanyu) | ¥18/月，150 GB | 不退款 |
 | 小流量年付 | [飞猪云](https://aff.kitdude.com/feizhu) | ¥84/年，50 GB/月 | 先确认本地可用性和退款规则 |
 | 不限时备用 | [寰宇云](https://aff.kitdude.com/huanyu) | ¥158/1,000 GB | 用完为止，不会每月新增 1,000 GB |
 
